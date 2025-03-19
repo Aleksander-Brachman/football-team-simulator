@@ -1,0 +1,32 @@
+C:\Users\Aleksander\source\repos\ZadProjekt\bin\Debug\net5.0\ZadProjekt.exe
+C:\Users\Aleksander\source\repos\ZadProjekt\bin\Debug\net5.0\ZadProjekt.deps.json
+C:\Users\Aleksander\source\repos\ZadProjekt\bin\Debug\net5.0\ZadProjekt.runtimeconfig.json
+C:\Users\Aleksander\source\repos\ZadProjekt\bin\Debug\net5.0\ZadProjekt.runtimeconfig.dev.json
+C:\Users\Aleksander\source\repos\ZadProjekt\bin\Debug\net5.0\ZadProjekt.dll
+C:\Users\Aleksander\source\repos\ZadProjekt\bin\Debug\net5.0\ref\ZadProjekt.dll
+C:\Users\Aleksander\source\repos\ZadProjekt\bin\Debug\net5.0\ZadProjekt.pdb
+C:\Users\Aleksander\source\repos\ZadProjekt\obj\Debug\net5.0\ZadProjekt.csprojAssemblyReference.cache
+C:\Users\Aleksander\source\repos\ZadProjekt\obj\Debug\net5.0\ZadProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksander\source\repos\ZadProjekt\obj\Debug\net5.0\ZadProjekt.AssemblyInfoInputs.cache
+C:\Users\Aleksander\source\repos\ZadProjekt\obj\Debug\net5.0\ZadProjekt.AssemblyInfo.cs
+C:\Users\Aleksander\source\repos\ZadProjekt\obj\Debug\net5.0\ZadProjekt.csproj.CoreCompileInputs.cache
+C:\Users\Aleksander\source\repos\ZadProjekt\obj\Debug\net5.0\ZadProjekt.dll
+C:\Users\Aleksander\source\repos\ZadProjekt\obj\Debug\net5.0\ref\ZadProjekt.dll
+C:\Users\Aleksander\source\repos\ZadProjekt\obj\Debug\net5.0\ZadProjekt.pdb
+C:\Users\Aleksander\source\repos\ZadProjekt\obj\Debug\net5.0\ZadProjekt.genruntimeconfig.cache
+C:\Users\Aleksander\Desktop\Semestr 3 AGH\ZadProjekt\bin\Debug\net5.0\ZadProjekt.exe
+C:\Users\Aleksander\Desktop\Semestr 3 AGH\ZadProjekt\bin\Debug\net5.0\ZadProjekt.deps.json
+C:\Users\Aleksander\Desktop\Semestr 3 AGH\ZadProjekt\bin\Debug\net5.0\ZadProjekt.runtimeconfig.json
+C:\Users\Aleksander\Desktop\Semestr 3 AGH\ZadProjekt\bin\Debug\net5.0\ZadProjekt.runtimeconfig.dev.json
+C:\Users\Aleksander\Desktop\Semestr 3 AGH\ZadProjekt\bin\Debug\net5.0\ZadProjekt.dll
+C:\Users\Aleksander\Desktop\Semestr 3 AGH\ZadProjekt\bin\Debug\net5.0\ref\ZadProjekt.dll
+C:\Users\Aleksander\Desktop\Semestr 3 AGH\ZadProjekt\bin\Debug\net5.0\ZadProjekt.pdb
+C:\Users\Aleksander\Desktop\Semestr 3 AGH\ZadProjekt\obj\Debug\net5.0\ZadProjekt.csprojAssemblyReference.cache
+C:\Users\Aleksander\Desktop\Semestr 3 AGH\ZadProjekt\obj\Debug\net5.0\ZadProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksander\Desktop\Semestr 3 AGH\ZadProjekt\obj\Debug\net5.0\ZadProjekt.AssemblyInfoInputs.cache
+C:\Users\Aleksander\Desktop\Semestr 3 AGH\ZadProjekt\obj\Debug\net5.0\ZadProjekt.AssemblyInfo.cs
+C:\Users\Aleksander\Desktop\Semestr 3 AGH\ZadProjekt\obj\Debug\net5.0\ZadProjekt.csproj.CoreCompileInputs.cache
+C:\Users\Aleksander\Desktop\Semestr 3 AGH\ZadProjekt\obj\Debug\net5.0\ZadProjekt.dll
+C:\Users\Aleksander\Desktop\Semestr 3 AGH\ZadProjekt\obj\Debug\net5.0\ref\ZadProjekt.dll
+C:\Users\Aleksander\Desktop\Semestr 3 AGH\ZadProjekt\obj\Debug\net5.0\ZadProjekt.pdb
+C:\Users\Aleksander\Desktop\Semestr 3 AGH\ZadProjekt\obj\Debug\net5.0\ZadProjekt.genruntimeconfig.cache
